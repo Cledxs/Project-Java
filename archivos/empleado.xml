@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empleado>
+    <codigo>100</codigo>
+    <nombre>Claudio</nombre>
+    <salario>5000.0</salario>
+</empleado>
